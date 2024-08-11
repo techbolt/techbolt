@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @techbolt
+- 👋 Hi, I’m Dhawal Srivastava
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...html, js, css
 - 💞️ I’m looking to collaborate on ...on my personal portfolio website
